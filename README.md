@@ -50,25 +50,27 @@
         <img src="https://camo.githubusercontent.com/b0f0632f6ef6784735d7cd99b0eacb2464521058fa9ac4872591d4bba67333e0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465"/>
       </a>
       </p>
-      <p>A modern bakery website built with <b> HTML, CSS, and JavaScript </b>, deployed on Netlify. The site offers a smooth browsing experience with a Khmer-language interface, allowing users to explore delicious cakes, bread, pies, and more.</p>
+      <p>A modern bakery website built with <b> HTML, CSS, Bootstrap5, and JavaScript </b>, deployed on Netlify. The site offers a smooth browsing experience with a Khmer-language interface, allowing users to explore delicious cakes, bread, pies, and more.</p>
     </td>
 <!--     The Cake End -->
   </tr>
   <tr>
+<!--     Absara Resturant start -->
     <td width="50%" valign="top">
-      <h3>Seven Bookstore</h3>
-      <img width="1895" height="911" alt="image" src="https://github.com/user-attachments/assets/f0fb60bb-fc56-4453-b4d2-73146c3bc241" width = "100%"/>
+      <h3>The Absara Resturant</h3>
+      <img width="1899" height="910" alt="image" src="https://github.com/user-attachments/assets/3ecf4e62-82c1-4bff-bf4f-8caf5b74dc44" width="100%"/>
       <br/>
       <p align="center" dir="auto">
-         <a href="https://github.com/starieeee/sevenBookstore.git">
+         <a href="https://github.com/starieeee/absaraResturant.git">
         <img src="https://camo.githubusercontent.com/efdf02df4e564b93ecf69e421e9979b75afebfa9b5824816fb8bf64aa47c4c60/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465"/>
       </a>
-      <a href="https://sevenbookstore.netlify.app">
+      <a href="https://absara.netlify.app/">
         <img src="https://camo.githubusercontent.com/b0f0632f6ef6784735d7cd99b0eacb2464521058fa9ac4872591d4bba67333e0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465"/>
       </a>
       </p>
-      <p><b>HTML, CSS </b> — A static online bookstore with Khmer-language categories, multi-page navigation, and book cards showing covers, titles, and prices, deployed on Netlify.</p>
+      <p><b>HTML, CSS, Bootstrap5, JavaScript</b> – A dynamic tour booking website featuring responsive design and interactive elements. Implemented login/signup system with sessionStorage to handle temporary user data, enabling booking functionality and personalized sessions.</p>
     </td>
+<!--     Absara Resturant end -->
    <td width="50%" valign="top">
       <h3>Seven Bookstore</h3>
       <img width="1895" height="911" alt="image" src="https://github.com/user-attachments/assets/f0fb60bb-fc56-4453-b4d2-73146c3bc241" width = "100%"/>

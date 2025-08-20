@@ -34,7 +34,7 @@
         <img src="https://camo.githubusercontent.com/b0f0632f6ef6784735d7cd99b0eacb2464521058fa9ac4872591d4bba67333e0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465"/>
       </a>
       </p>
-      <p><b>HTML, CSS</b> – A static online bookstore featuring curated categories in Khmer, book covers with prices, and “Buy Now” buttons. Deployed with Netlify.</p>
+      <p><b>HTML, CSS </b> — A static online bookstore with Khmer-language categories, multi-page navigation, and book cards showing covers, titles, and prices, deployed on Netlify.</p>
     </td>
 <!--     End of Seven Bookstore -->
     <td width="50%" valign="top">

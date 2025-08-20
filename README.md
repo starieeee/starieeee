@@ -21,7 +21,7 @@
   </a> for more information!  
 </p>
 <h1 align="center">Projects</h1>
-
+<hr>
 <table>
   <tr>
 <!--     Seven bookstore -->
@@ -91,13 +91,30 @@
     </td>
   </tr>
 </table>
-## 🚀 Technologies
-
+<h1 align="center">Technologies</h1>
+<hr>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://camo.githubusercontent.com/b162fda800f99b597682cc02c227775166637ab7793af44821d09ef448ce366a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d48544d4c3526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d68746d6c35"/>
+  <img src="https://camo.githubusercontent.com/bfd7e1e245a50520464a56653b1978a9a4d07a95a5edb3aec3f995226318cd7e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4353533326636f6c6f723d323835663635267374796c653d706c6173746963266c6f676f3d63737333"/>
+  <img src="https://camo.githubusercontent.com/9d9f88100930635e37c0a7af93800bd7103edb5c5eb50eef366487d7442465cf/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d424f4f54535452415026636f6c6f723d333136633565267374796c653d706c6173746963266c6f676f3d626f6f747374726170"/>
+  <img src="https://camo.githubusercontent.com/fd3beee4fe66b5ef0350c5f64d808c9ff12d1a04dcc4a2e36769aff90bdfc5c2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4a41564153435249505426636f6c6f723d336337663564267374796c653d706c6173746963266c6f676f3d6a617661736372697074"/>
+  <img src="https://camo.githubusercontent.com/e7c9764f5fc61d2665f820f7f0f9a3556f8bf3b73691bfbdb4045b7515aa6fca/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d505954484f4e26636f6c6f723d353239383562267374796c653d706c6173746963266c6f676f3d707974686f6e"/>
+</p>
+<h1 align="center">Contact Me</h1>
+<hr>
+<p align="center">
+  <a href="https://natepy19.wixsite.com/natepyvann" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white" alt="Website Badge"/>
+</a>
+
+  <a href="https://www.linkedin.com/in/natepy-vann-153ab9239" target="_blank">
+  <img src="https://camo.githubusercontent.com/57fad13d653a6a5ed1e7b53a2a38d1a6c618925918b7c48fd2825422d64b1790/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d4c494e4b45442d494e26636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f2d636f6c6f723d7768697465" alt="LinkedIn Profile" />
+</a>
+  <a href="#">
+    <img src="https://camo.githubusercontent.com/f965d4c8901032f4970045299ffe866f5f3add9559671b3c99b88ff18d1bf7a6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5457495454455226636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d74776974746572266c6f676f2d636f6c6f723d7768697465" alt = "Twitter Profile" />
+  </a>
+  <a href="https://drive.google.com/file/d/1IEXeb0hxN0PwMNTug0zdh598WKS2S8C_/view?usp=drive_link">
+    <img src="https://camo.githubusercontent.com/d8227430855e6256bb09e5a62ed2d43e9c7075fa937f7de166343988aeb816ea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d524553554d4526636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d7265616374266c6f676f2d636f6c6f723d7768697465" alt="Resume" />
+  </a>
 </p>
 

@@ -17,21 +17,22 @@
   </a>
 </p>
 
-<h3 style="text-align:center">Project</h3>
+<h1 align="center">Projects</h1>
 
 <table>
   <tr>
+<!--     Seven bookstore -->
     <td>
-      <h3>Travelara.org</h3>
-      <img src="https://your-image-link.png" width="300px"/>
+      <h3>Seven Bookstore</h3>
+      <img width="1895" height="911" alt="image" src="https://github.com/user-attachments/assets/f0fb60bb-fc56-4453-b4d2-73146c3bc241" width = "300px"/>
       <br/>
-      <a href="https://github.com/your-repo">
+      <a href="https://github.com/starieeee/sevenBookstore.git">
         <img src="https://img.shields.io/badge/-Repo-black?logo=github&style=for-the-badge"/>
       </a>
-      <a href="https://youtu.be/your-video-link">
-        <img src="https://img.shields.io/badge/-Video-red?logo=youtube&style=for-the-badge"/>
+      <a href="https://sevenbookstore.netlify.app">
+        <img src="https://img.shields.io/badge/-Website-brightgreen?logo=netlify&style=for-the-badge"/>
       </a>
-      <p><b>Javascript, Bootstrap, Sass, Node.js, Express.js</b> – Platform to help build momentous milestones along with your friends and family!</p>
+      <p><b>HTML, CSS</b> – A static online bookstore featuring curated categories in Khmer, book covers with prices, and “Buy Now” buttons. Deployed with Netlify.</p>
     </td>
     <td>
       <h3>Rigley 2: "Flappy Bug"</h3>

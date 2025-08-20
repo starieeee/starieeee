@@ -17,3 +17,60 @@
   </a>
 </p>
 
+<h3 style="text-align:center">Project</h3>
+
+<table>
+  <tr>
+    <td>
+      <h3>Travelara.org</h3>
+      <img src="https://your-image-link.png" width="300px"/>
+      <br/>
+      <a href="https://github.com/your-repo">
+        <img src="https://img.shields.io/badge/-Repo-black?logo=github&style=for-the-badge"/>
+      </a>
+      <a href="https://youtu.be/your-video-link">
+        <img src="https://img.shields.io/badge/-Video-red?logo=youtube&style=for-the-badge"/>
+      </a>
+      <p><b>Javascript, Bootstrap, Sass, Node.js, Express.js</b> – Platform to help build momentous milestones along with your friends and family!</p>
+    </td>
+    <td>
+      <h3>Rigley 2: "Flappy Bug"</h3>
+      <img src="https://your-image-link.png" width="300px"/>
+      <br/>
+      <a href="https://github.com/your-repo">
+        <img src="https://img.shields.io/badge/-Repo-black?logo=github&style=for-the-badge"/>
+      </a>
+      <a href="https://your-website-link.com">
+        <img src="https://img.shields.io/badge/-Website-brightgreen?logo=wordpress&style=for-the-badge"/>
+      </a>
+      <p><b>Javascript & Phaser.js</b> – Jumping through firewalls "Flappy Bird" style!</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>ShawnCharles.com</h3>
+      <img src="https://your-image-link.png" width="300px"/>
+      <br/>
+      <a href="https://github.com/your-repo">
+        <img src="https://img.shields.io/badge/-Repo-black?logo=github&style=for-the-badge"/>
+      </a>
+      <a href="https://shawncharles.com">
+        <img src="https://img.shields.io/badge/-Website-brightgreen?logo=wordpress&style=for-the-badge"/>
+      </a>
+      <p><b>HTML5, CSS3, Javascript</b> – Portfolio site with projects and contact info.</p>
+    </td>
+    <td>
+      <h3>Matching Cards</h3>
+      <img src="https://your-image-link.png" width="300px"/>
+      <br/>
+      <a href="https://github.com/your-repo">
+        <img src="https://img.shields.io/badge/-Repo-black?logo=github&style=for-the-badge"/>
+      </a>
+      <a href="https://your-website-link.com">
+        <img src="https://img.shields.io/badge/-Website-brightgreen?logo=wordpress&style=for-the-badge"/>
+      </a>
+      <p><b>HTML5, CSS3, Javascript</b> – Card matching game featuring Pokémon & Magic cards.</p>
+    </td>
+  </tr>
+</table>
+

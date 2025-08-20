@@ -39,8 +39,8 @@
 <!--     End of Seven Bookstore -->
 <!--     The Cake start -->
     <td width="50%" valign="top">
-      <h3>Seven Bookstore</h3>
-      <img width="1898" height="873" alt="image" src="https://github.com/user-attachments/assets/822df9f0-098d-4cfa-823f-67f02debf1da" width = "100%"/>
+      <h3>The Cake</h3>
+      <img width="1900" height="911" alt="image" src="https://github.com/user-attachments/assets/76bebc4a-d37d-4ecf-9c68-dfa6da6bcf42" width = "100%"/>
       <br/>
       <p align="center" dir="auto">
          <a href="https://github.com/starieeee/theCake.git">

@@ -38,42 +38,48 @@
     </td>
 <!--     End of Seven Bookstore -->
     <td width="50%" valign="top">
-      <h3>Rigley 2: "Flappy Bug"</h3>
-      <img src="https://your-image-link.png" width="300px"/>
+      <h3>Seven Bookstore</h3>
+      <img width="1895" height="911" alt="image" src="https://github.com/user-attachments/assets/f0fb60bb-fc56-4453-b4d2-73146c3bc241" width = "100%"/>
       <br/>
-      <a href="https://github.com/your-repo">
-        <img src="https://img.shields.io/badge/-Repo-black?logo=github&style=for-the-badge"/>
+      <p align="center" dir="auto">
+         <a href="https://github.com/starieeee/sevenBookstore.git">
+        <img src="https://camo.githubusercontent.com/efdf02df4e564b93ecf69e421e9979b75afebfa9b5824816fb8bf64aa47c4c60/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465"/>
       </a>
-      <a href="https://your-website-link.com">
-        <img src="https://img.shields.io/badge/-Website-brightgreen?logo=wordpress&style=for-the-badge"/>
+      <a href="https://sevenbookstore.netlify.app">
+        <img src="https://camo.githubusercontent.com/b0f0632f6ef6784735d7cd99b0eacb2464521058fa9ac4872591d4bba67333e0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465"/>
       </a>
-      <p><b>Javascript & Phaser.js</b> – Jumping through firewalls "Flappy Bird" style!</p>
+      </p>
+      <p><b>HTML, CSS </b> — A static online bookstore with Khmer-language categories, multi-page navigation, and book cards showing covers, titles, and prices, deployed on Netlify.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>ShawnCharles.com</h3>
-      <img src="https://your-image-link.png" width="300px"/>
+      <h3>Seven Bookstore</h3>
+      <img width="1895" height="911" alt="image" src="https://github.com/user-attachments/assets/f0fb60bb-fc56-4453-b4d2-73146c3bc241" width = "100%"/>
       <br/>
-      <a href="https://github.com/your-repo">
-        <img src="https://img.shields.io/badge/-Repo-black?logo=github&style=for-the-badge"/>
+      <p align="center" dir="auto">
+         <a href="https://github.com/starieeee/sevenBookstore.git">
+        <img src="https://camo.githubusercontent.com/efdf02df4e564b93ecf69e421e9979b75afebfa9b5824816fb8bf64aa47c4c60/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465"/>
       </a>
-      <a href="https://shawncharles.com">
-        <img src="https://img.shields.io/badge/-Website-brightgreen?logo=wordpress&style=for-the-badge"/>
+      <a href="https://sevenbookstore.netlify.app">
+        <img src="https://camo.githubusercontent.com/b0f0632f6ef6784735d7cd99b0eacb2464521058fa9ac4872591d4bba67333e0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465"/>
       </a>
-      <p><b>HTML5, CSS3, Javascript</b> – Portfolio site with projects and contact info.</p>
+      </p>
+      <p><b>HTML, CSS </b> — A static online bookstore with Khmer-language categories, multi-page navigation, and book cards showing covers, titles, and prices, deployed on Netlify.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Matching Cards</h3>
-      <img src="https://your-image-link.png" width="300px"/>
+   <td width="50%" valign="top">
+      <h3>Seven Bookstore</h3>
+      <img width="1895" height="911" alt="image" src="https://github.com/user-attachments/assets/f0fb60bb-fc56-4453-b4d2-73146c3bc241" width = "100%"/>
       <br/>
-      <a href="https://github.com/your-repo">
-        <img src="https://img.shields.io/badge/-Repo-black?logo=github&style=for-the-badge"/>
+      <p align="center" dir="auto">
+         <a href="https://github.com/starieeee/sevenBookstore.git">
+        <img src="https://camo.githubusercontent.com/efdf02df4e564b93ecf69e421e9979b75afebfa9b5824816fb8bf64aa47c4c60/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465"/>
       </a>
-      <a href="https://your-website-link.com">
-        <img src="https://img.shields.io/badge/-Website-brightgreen?logo=wordpress&style=for-the-badge"/>
+      <a href="https://sevenbookstore.netlify.app">
+        <img src="https://camo.githubusercontent.com/b0f0632f6ef6784735d7cd99b0eacb2464521058fa9ac4872591d4bba67333e0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465"/>
       </a>
-      <p><b>HTML5, CSS3, Javascript</b> – Card matching game featuring Pokémon & Magic cards.</p>
+      </p>
+      <p><b>HTML, CSS </b> — A static online bookstore with Khmer-language categories, multi-page navigation, and book cards showing covers, titles, and prices, deployed on Netlify.</p>
     </td>
   </tr>
 </table>
